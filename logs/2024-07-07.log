@@ -1,0 +1,82 @@
+::1 - - [2024-07-07T09:40:35.325Z] "GET /api/sada HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T09:44:40.404Z] "POST /api/users/login HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T09:56:42.211Z] "POST /api/users/ HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T09:57:22.994Z] "POST /users/ HTTP/1.1" 409 94 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:02:28.303Z] "GET /users/668a668d81750380095625d4 HTTP/1.1" 401 98 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:04:51.465Z] "DELETE /users/ HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:06:58.616Z] "DELETE /users/66810fed3d8c09d84cd01328 HTTP/1.1" 401 98 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:19:46.545Z] "POST /users/login HTTP/1.1" 403 48 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:20:07.271Z] "POST /users/ HTTP/1.1" 409 99 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:20:51.704Z] "POST /api/cards HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:21:31.357Z] "POST /api/cards HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:21:47.799Z] "POST /api/cards HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:21:56.120Z] "POST /cards HTTP/1.1" 401 88 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:22:27.233Z] "POST /cards HTTP/1.1" 401 88 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:22:47.472Z] "GET /users/ HTTP/1.1" 403 53 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:25:07.416Z] "POST /users/ HTTP/1.1" 409 99 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:25:51.685Z] "DELETE /users/66810fed3d8c09d84cd01328 HTTP/1.1" 403 53 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:26:18.564Z] "POST /users/ HTTP/1.1" 409 99 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:26:20.800Z] "POST /users/ HTTP/1.1" 409 99 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:26:21.905Z] "POST /users/ HTTP/1.1" 409 99 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:27:42.797Z] "POST /users/login HTTP/1.1" 403 48 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:27:45.771Z] "POST /users/login HTTP/1.1" 403 48 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:29:43.042Z] "GET /users/668a6bd4ca98478ec1af9b8f HTTP/1.1" 403 53 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:30:05.446Z] "GET /users/668a6bd4ca98478ec1af9b8f HTTP/1.1" 403 53 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:30:33.788Z] "GET /users/668a6bd4ca98478ec1af9b8f HTTP/1.1" 401 98 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:32:15.482Z] "PATCH /api/users/668a6d85ca98478ec1af9ba2 HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:33:32.522Z] "PUT /api/users/668a6d85ca98478ec1af9ba2 HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:35:26.089Z] "GET / HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:37:26.445Z] "GET /api/cards/my-cards HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:37:33.116Z] "GET /api/cards/my-cards HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:37:55.569Z] "GET /api/cards/my-cards HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:39:52.911Z] "GET /api/cards/my-cards HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:39:54.646Z] "GET /api/cards/my-cards HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:39:57.851Z] "GET /api/cards/my-cards HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:40:11.250Z] "GET /api/cards/my-cards HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:41:46.227Z] "DELETE /api/cards/668a6dc0ca98478ec1af9baa HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:41:47.715Z] "DELETE /api/cards/668a6dc0ca98478ec1af9baa HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:45:57.679Z] "PATCH /api/cards/66797f7619c92db84a22ceba HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:45:59.304Z] "PATCH /api/cards/66797f7619c92db84a22ceba HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:47:11.579Z] "PATCH /api/cards/66797f7619c92db84a22ceba HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
+::1 - - [2024-07-07T10:47:12.733Z] "PATCH /api/cards/66797f7619c92db84a22ceba HTTP/1.1" 404 382 "-" "PostmanRuntime/7.39.0"
+
