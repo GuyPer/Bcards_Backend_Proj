@@ -1,8 +1,5 @@
 # Project: Building a Node.js Server using Express
 
-![Node.js Logo](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)
-![Express Logo](https://expressjs.com/images/express-facebook-share.png)
-
 ## Project Description
 
 This project involves building a server-side application using JavaScript with the Express framework, enabling handling of HTTP requests via various middlewares.
