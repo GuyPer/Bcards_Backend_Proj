@@ -20,7 +20,8 @@ This project involves building a server-side application using JavaScript with t
 ## env file:
 File that hold parameters should be exposed only to the admin, with sensitive details like:
 Port of the URL, JWT configurations includes password related to admin, DB configurations includes optional local DB or "Atlas" online DB on optional enviornments as development or production.
-**In this project case (for test) I share the details should added manually by the tester, in the file name ".env" (should be created either by tester):**
+**In this project case (for test) I share the details should added manually by the tester, in file with the name of ".env" (should be created either):**
+**please be aware to separate every line**
 
 PORT = "3000"
 JWT_SECRET = "iLoveIsrael123!@#"
